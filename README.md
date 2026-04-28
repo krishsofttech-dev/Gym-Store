@@ -409,22 +409,6 @@ php artisan optimize
 php artisan migrate --force
 ```
 
-> Set your web server document root to the `/public` directory.
-
----
-
-<br/>
-
-## Contributing
-
-1. Fork the project
-2. Create your feature branch — `git checkout -b feature/AmazingFeature`
-3. Commit your changes — `git commit -m "feat: add AmazingFeature"`
-4. Push to the branch — `git push origin feature/AmazingFeature`
-5. Open a Pull Request
-
----
-
 <br/>
 
 ## License
